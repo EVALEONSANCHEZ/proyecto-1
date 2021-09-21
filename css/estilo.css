@@ -1,0 +1,116 @@
+.titulo{
+    text-align: center;
+    font-family: cursive;
+    color: white;
+    background-color: coral;
+    width: 100%;
+    height: 100px;
+   
+}
+
+body{
+    background-color:white;
+}
+
+
+a:hover{
+    background:orange;
+
+   
+}
+
+.videos{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.parrafo{
+    display: flex;
+    background-color: white;
+    
+    
+  
+}
+.parrafo2{
+    display: flex;
+    background-color: white;
+    text-align: justify;
+   
+}
+.p1{
+width: 250%;
+    text-align: justify;
+}
+.p2{
+    width: 250%;
+        text-align: justify;
+    }
+    .md{
+width: 30%;
+
+
+    }
+
+   .navbar-brand{
+       justify-content: center;
+   }
+
+   .nav-link active{
+    justify-content: center;
+
+   }
+
+
+
+
+
+
+
+
+
+
+footer{
+    height: 350px;
+     background-color: black ;
+     width: 100%;
+      padding: auto; 
+    }
+    
+    .face{
+        width: 20%;
+        height: 50px;
+       
+    }
+    
+    .ins{
+        width: 20%;
+        height: 50px;
+        
+    }.you{
+        width: 20%;
+        height: 50px;
+    
+       
+    }
+    
+    .iconos{
+        display: flex;
+        padding: 3%;
+        width: 100%;
+        height: 100px;
+    }
+    
+    .textofooter1{
+        color: white;
+        
+    }  
+    
+    .textofooter{
+        text-align: center;
+        
+       
+        color: white;
+        
+    }
+    
